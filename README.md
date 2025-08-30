@@ -8,7 +8,7 @@
 
 ## Daftar Isi
 
-- [Prasyarat](#prasyarat)
+- [Prasyaratan](#prasyaratan)
 - [Instalasi](#instalasi)
 - [Setup Backend](#setup-backend)
 - [Setup Frontend](#setup-frontend)
@@ -16,7 +16,7 @@
 - [Struktur Direktori](#struktur-direktori)
 
 
-## Prasyarat
+## Prasyaratan
 
 Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut yang terinstal di sistem Anda:
 
