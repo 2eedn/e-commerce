@@ -172,7 +172,7 @@ e-commerce/
 │   ├── src/             # Kode sumber aplikasi frontend
 │   ├── package.json     # Daftar dependensi npm
 │   └── SETUP FRONTEND.bat  # Script untuk setup frontend otomatis
-├── README.md            # Dokumentasi proyek
+└── README.md            # Dokumentasi proyek
 ```
 
 
