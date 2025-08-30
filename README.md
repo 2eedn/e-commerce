@@ -173,7 +173,6 @@ e-commerce/
 │   ├── package.json     # Daftar dependensi npm
 │   └── SETUP FRONTEND.bat  # Script untuk setup frontend otomatis
 ├── README.md            # Dokumentasi proyek
-└── .gitignore           # Daftar file yang diabaikan oleh Git
 ```
 
 
