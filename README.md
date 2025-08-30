@@ -10,7 +10,12 @@ Deploy: Lokal
 - Python 3.11+
 - MySQL server lokal (bisa menggunakan xampp)
 
+## clone repository
+```bash
+   git clone https://github.com/2eedn/e-commerce.git
+   ```
 
+   
 ## Setup 1 klick Backend
 1. Setting database `backend/.env`
 2. klick file Backend.bat
