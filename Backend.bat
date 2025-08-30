@@ -9,6 +9,7 @@ if errorlevel 1 exit /b
 
 :: Membuat virtual environment dan menginstall dependensi
 echo Membuat virtual environment dan menginstall dependensi...
+python -m pip install -r requirements.txt
 pip install -r requirements.txt
 
 :: Konfirmasi apakah database mini_ecommerce sudah dibuat
@@ -30,5 +31,8 @@ echo Menginisialisasi tabel dan menambahkan data...
 python -m app.seed
 
 :: Menjalankan API
+echo =============================================================
+echo Buka `http://127.0.0.1:8000/docs` untuk melihat debug API
+echo =============================================================
 echo Menjalankan API...
 python -m uvicorn app.main:app --reload
