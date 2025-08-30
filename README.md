@@ -99,7 +99,9 @@ Jika Anda lebih suka setup secara manual:
 
 Jika Anda ingin setup frontend dengan cepat, ikuti langkah-langkah berikut:
 
-1. **Klik file**: Klik ganda pada file `frontend/SETUP FRONTEND.bat` untuk otomatisasi setup.
+1. **Klik file**: Klik ganda pada file `frontend/SETUP FRONTEND.bat` untuk otomatisasi setup (Hanya diperlukan 1 Kali).
+
+2. **Klik file**: Klik ganda pada file `frontend/RUN FRONTEND.bat` untuk menjalankan frontend.
 
 ### Setup Manual Frontend
 
