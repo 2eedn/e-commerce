@@ -5,7 +5,7 @@ Backend: FastAPI (Python)
 Database: MySQL  
 Deploy: Lokal
 
-## Prasyarat
+## Prasyaratan
 - Node.js 18+ & npm
 - Python 3.11+
 - MySQL server lokal (bisa menggunakan xampp)
